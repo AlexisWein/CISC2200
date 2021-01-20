@@ -1,1 +1,0 @@
-This was the first lab I completed in CISC2200. The purpose of this lab was to familiarize students with using GitHub/GitHub Classroom, Docker, Terminal, and our local coding environments (I use Visual Studio Code) for the purposes of the class.
